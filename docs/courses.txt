@@ -1,0 +1,5 @@
+HTML---Reiska Ope---www.moodle.fi---true
+HTML---Tuomo Ope---Room 78---false
+CSS---Olli Ope---www.moodle.fi---true
+Web/Hybrid---Toni Ope---www.zoom.us---true
+Mobile Development---Riina Ope---Room 12---false
